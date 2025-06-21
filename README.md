@@ -20,4 +20,4 @@ Usługa korzysta z publicznego API CodeSandbox ([https://codesandbox.io](https:/
 
 ## Kontakt
 
-W razie pytań dotyczących prywatności, możesz napisać na adres e-mail: **kontakt@twojadomena.pl**
+W razie pytań dotyczących prywatności, możesz napisać na adres e-mail: **pbmr1996@gmail.com**
